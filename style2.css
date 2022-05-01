@@ -1,0 +1,15 @@
+.xyz input{
+        background-color:whitesmoke;
+        border: 2px solid whitesmoke;
+        border-radius: 25px;
+        width: 150px;
+        padding: 8px;
+        font-size: 25px
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        text-decoration:6px solid rgb(248, 246, 246) underline;
+    }

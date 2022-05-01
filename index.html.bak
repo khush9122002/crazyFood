@@ -1,0 +1,48 @@
+<html>
+<head>
+ <style>
+   marquee{
+     background-color: black;
+   }
+  body{
+    
+     font-family: 'Blackadder ITC';
+  }
+   
+  </style>
+  </head>
+
+  <body style=" background-color:gray;color:white;" ><br>
+   
+    
+    <marquee align="right"><h1><ul> Address : Palika  Bajer , Collage  Road  Patan . </h1></marquee>
+	
+    <hr width="1189">
+   
+    <img src="facebook.jpg" align="right" width="25"><br>
+    
+    <h1 align="center" width="300" ><b><i><U>  Welcome  <br> <br><br>
+   
+    <img src ="D:\khush (html)\html\website\la-pinoze.jpg"  width="220">
+
+
+    <h1 align="center" width="250" > La-Pinoz</h1>
+
+
+      <p align="center"><b> Welcome to Our Pizza House .<br>
+	  I wish you are like your hotal .<br>
+	  free home delivery
+	  <br><br><br>
+    
+    <a href="D:\khush (html)\html\website\page-1.html"><input type = "submit" align="center" value="FOR ORDER SIGN IN/SIGN UP"> </input> </a>
+    <br>
+  
+    <hr width="1189">
+
+    <marquee align="right" > CREATE  BY - KHUSH  THAKKAR.
+    
+    
+   
+  </body>
+  </html>   
+   

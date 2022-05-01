@@ -1,0 +1,35 @@
+<html>
+
+ <body background="\D:\khush (html)\html\website\pizza .jpg" >
+
+ <h1 text="white"><u> Sign in</u></h1>
+ <hr width="1250" align="left"> 
+ <br>
+  <br>
+  <br>
+  <table> 
+    <tr> 
+	<td> E-Mail Id/Contect Number </td>
+	<td> :</td>
+	<td> <input type="box"> </td>
+    </tr>
+	<tr>
+	<td> Password</td>
+	<td> :</td>
+    <td> <input type="password"></td>
+	<table>
+	<br>
+	<br>
+	<br>
+
+    <a href="D:\khush (html)\html\website\page-4.html"><input  type="submit"  value="submit"  ></input></a>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<a href="D:\khush (html)\html\practical list\practical7.html" value="Create A New Account">Create A  New Account</a>
+	
+  </body>
+</html>
+	

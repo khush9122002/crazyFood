@@ -1,0 +1,42 @@
+<html>
+  <body>
+    <table border="2" align="center">
+	 <tr>
+	 <th>Pizza-Flavours</th>
+     <th> Small Price</th>
+	 <th> Large Price</th>
+	 
+	 
+	 <tr>
+	 <td> Cheese-flavour
+	 <td align="center">Rs.299
+	 <td align="center">Rs.499
+	 
+	 
+	 <tr>
+	 <td> Pennir-flavour
+	 <td align="center">Rs.250
+	 <td align="center">Rs.400
+	 
+	 <tr>
+	 <td>Corn Pizza-Flavours
+	 <td align="center">Rs.70
+	 <td align="center">Rs.120
+	 
+	 <tr>
+	 <td> Chicken kebab pizza
+	 <td align="center"> Rs.99
+	 <td align="center"> Rs.399
+	 <br>
+	 <tr>
+	 <td> Garlic bread (4-pcs)
+	 <td align="center"> Rs.199
+	 <td align="center"> -
+	 
+	 <br>
+	 <br>
+	 
+	 <tr>
+	 <td>Order Now
+	 <td align="center">:
+	 <td><input type="box">
